@@ -5,15 +5,14 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Introductory PHYSICS</title>
-    <subtitle>An Algebra-Based Perspective</subtitle>
+    <title>My Great Book</title>
+    <subtitle>An example to get you started</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-kinematics.ptx" />
-    <xi:include href="./ch-waves.ptx" />
+    <xi:include href="./ch-chapter-title.ptx" />
 
 
     <!-- Include backmatter -->

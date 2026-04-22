@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-section-name2" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Section Title</title>
 
-  <p> Text of section. </p>
-
+  <p> A <term>pulse</term> is a single, non-repeating disturbance that propagates through space and time, transferring energy and momentum.</p>
+  <p> A <term>wave</term> is a continuous, periodic succession of pulses.</p>
+  <image source="wave-driver-1.png">  </image>
   <p>
     So I think the integral <m> \int_0^5 f(x) \, dx </m>
     <md>

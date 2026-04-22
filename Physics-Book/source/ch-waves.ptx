@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-waves" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Oscillatory Motion</title>
+
+  <introduction>
+    <p> Text before the first section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section-name2.ptx" />
+
+  
+  
+  
+</chapter>
