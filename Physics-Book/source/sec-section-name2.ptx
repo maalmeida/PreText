@@ -7,7 +7,7 @@
   <p> A <term>wave</term> is a continuous, periodic succession of pulses.</p>
   <image source="wave-driver-1.png">  </image>
   <p>
-    So I think the integral <m> \int_0^5 f(x) \, dx </m>
+    So the integral <m> \int_0^2 3x(x^2+1) \, dx = 18 </m>
     <md>
       \frac{d}{dx} \int_1^x \frac{1}{t}\, dt = \frac{1}{x}
     </md>
